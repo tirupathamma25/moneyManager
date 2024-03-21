@@ -1,0 +1,45 @@
+.list-item {
+  background-color: #ecfccb;
+  height: 90px;
+  width: 29vh;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 1px solid #7e858e;
+  margin-right: 10px;
+}
+
+.balance {
+  background-color: #ecfccb;
+}
+
+.income {
+  background-color: #cffafe;
+}
+
+.expenses {
+  background-color: #ede9fe;
+}
+
+.balance-in-rupee {
+  color: #475569;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.icon {
+  height: 50px;
+  width: 50px;
+}
+
+.balance-text {
+  color: #7e858e;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.un-ordered-money-details {
+  display: flex;
+  justify-content: flex-start;
+}

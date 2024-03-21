@@ -1,0 +1,32 @@
+.delete-button {
+  border: none;
+  background-color: transparent;
+}
+
+.delete {
+  height: 20px;
+  width: 15px;
+}
+
+.history-list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #cbd5e1;
+  border-top: none;
+  color: #7e858e;
+  font-size: 12px;
+  font-weight: normal;
+  height: 25px;
+  width: 300px;
+  margin-right: 39px;
+  padding: 5px;
+}
+
+.transaction {
+  margin-left: 40px;
+}
+
+.transaction-title {
+  margin-left: 10px;
+}
